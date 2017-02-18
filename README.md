@@ -1,5 +1,5 @@
 # Pacman-and-Ghostbusters
-Pacman and Ghost Agent | Python | Artificial Intelligence | Search-based Algorithms | Learning-based Algordsnf,s,ddn
+Pacman and Ghost Agent | Python | Artificial Intelligence | Search-based Algorithms | Learning-based Algorithms
 
 
 Project 1
